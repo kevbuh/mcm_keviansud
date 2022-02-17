@@ -1,4 +1,5 @@
 # mcm_keviansud
+
 MCM 2022
 
 Kevin Buhler
@@ -6,6 +7,7 @@ Ian Von Pechmann
 Sudarshan Damodharan
 
 ### Parameters:
+
 1. Inflation
 2. USD cost
 3. Bitcoin cost
@@ -25,3 +27,9 @@ Commit the changes you have made:
 
 Push the changes to everyone:
 --> git push
+
+Update your repository
+--> git pull
+
+See status of your local changes
+--> git status
