@@ -1,7 +1,9 @@
 # mcm_keviansud
-mcm for kev ian sud
+MCM 2022
 
-mathematical modeling contest 2022
+Kevin Buhler
+Ian Von Pechmann
+Sudarshan Damodharan
 
 ### Parameters:
 1. Inflation
@@ -12,14 +14,14 @@ mathematical modeling contest 2022
 
 ### Github Commands
 
-Add ALL files that you have changed:\n
--> git add .
+Add ALL files that you have changed:
+--> git add .
 
 Add certain files
--> git add filename
+--> git add filename
 
 Commit the changes you have made:
--> git commit -m "write whatever"
+--> git commit -m "write whatever"
 
 Push the changes to everyone:
--> git push
+--> git push
