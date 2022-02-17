@@ -8,5 +8,5 @@ mathematical modeling contest 2022
 2. USD cost
 3. Bitcoin cost
 4. Gold Cost
-5. 
+5. S&P Over 4 years
 
