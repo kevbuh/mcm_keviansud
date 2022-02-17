@@ -7,5 +7,6 @@ mathematical modeling contest 2022
 1. Inflation
 2. USD cost
 3. Bitcoin cost
-
+4. Gold Cost
+5. 
 
