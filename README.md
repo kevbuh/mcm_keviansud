@@ -10,3 +10,4 @@ mathematical modeling contest 2022
 4. Gold Cost
 5. S&P Over 4 years
 
+push tests
