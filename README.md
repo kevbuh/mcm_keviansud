@@ -12,7 +12,7 @@ mathematical modeling contest 2022
 
 ### Github Commands
 
-Add ALL files that you have changed:
+Add ALL files that you have changed:\n
 -> git add .
 
 Add certain files
