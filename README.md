@@ -20,7 +20,7 @@ Sudarshan Damodharan
   - [] Present, describe, and justify one likely vision for the future of asteroid mining
   - [] determine the impact of mining on global equity
   - [] analysis that includes the use of your team’s global equity model.
-- [] f
+- [x] Make todo
 
 ### Github Commands
 
