@@ -33,3 +33,8 @@ Update your repository
 
 See status of your local changes
 --> git status
+
+
+Gold and bitcoin csv's are time series data
+- univariate
+- 
