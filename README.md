@@ -1,7 +1,5 @@
 # mcm_keviansud
 
-MCM 2022
-
 Kevin Buhler
 Ian Von Pechmann
 Sudarshan Damodharan
@@ -12,7 +10,9 @@ Google Doc: https://docs.google.com/document/d/1kknNqQcLPstfka9ulPNFQzFkmRNkLR0F
 
 <br>
 
-Github Commands
+## Github Commands
+
+<br>
 
 Add ALL files that you have changed:
 --> git add .
