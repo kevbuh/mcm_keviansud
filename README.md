@@ -6,6 +6,12 @@ Kevin Buhler
 Ian Von Pechmann
 Sudarshan Damodharan
 
+### Problem C: Data
+
+- Develop a model that gives the best daily trading strategy based only on price data up
+  to that day. How much is the initial $1000 investment worth on 9/10/2021 using your
+  model and strategy?
+
 ### Parameters:
 
 1. Inflation
