@@ -1,4 +1,4 @@
-# mcm_keviansud
+# keviansud
 
 Kevin Buhler
 Ian Von Pechmann
