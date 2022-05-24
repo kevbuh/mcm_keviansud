@@ -28,19 +28,20 @@ Google Doc: https://docs.google.com/document/d/1kknNqQcLPstfka9ulPNFQzFkmRNkLR0F
 <br>
 
 Add ALL files that you have changed:
---> git add .
+--> 
+<!-- 
+git add .
 
 Add certain files
---> git add filename
- -->
+git add filename
 Commit the changes you have made:
---> git commit -m "write whatever"
+git commit -m "write whatever"
 
 Push the changes to everyone:
---> git push
+ git push
 
 Update your repository
---> git pull
+git pull
 
 See status of your local changes
---> git status
+ git status -->
