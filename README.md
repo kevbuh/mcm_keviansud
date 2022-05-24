@@ -1,5 +1,6 @@
 # Asteroid Mining Global Equity Model and Paper
 
+Authors:
 Kevin Buhler
 Ian Von Pechmann
 Sudarshan Damodharan
