@@ -1,9 +1,9 @@
 # Asteroid Mining Global Equity Model and Paper
 
 Authors:
-Kevin Buhler
-Ian Von Pechmann
-Sudarshan Damodharan
+- Kevin Buhler
+- Ian Von Pechmann
+- Sudarshan Damodharan
 
 # Summary
 - Mathematical model to predict asteroid mining’s impact on global equity using Pandas and scikit-learn.
