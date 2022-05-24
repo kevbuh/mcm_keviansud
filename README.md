@@ -11,7 +11,13 @@ Sudarshan Damodharan
 - Projected future values of parameters using a least squares linear regression machine learning model
 - Allowed visualization of the model’s results using matplotlib in every region for the year 2050
 
-## Todo
+# Full Paper
+
+Full Paper [Here](./2108685.pdf)
+
+<br>
+
+<!-- ## Todo
 
 Google Doc: https://docs.google.com/document/d/1kknNqQcLPstfka9ulPNFQzFkmRNkLR0FkclPxwCaXjM/edit
 
@@ -26,7 +32,7 @@ Add ALL files that you have changed:
 
 Add certain files
 --> git add filename
-
+ -->
 Commit the changes you have made:
 --> git commit -m "write whatever"
 
