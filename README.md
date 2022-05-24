@@ -1,8 +1,14 @@
-# keviansud
+# Asteroid Mining Global Equity Model and Paper
 
 Kevin Buhler
 Ian Von Pechmann
 Sudarshan Damodharan
+
+# Summary
+- Mathematical model to predict asteroid mining’s impact on global equity using Pandas and scikit-learn.
+- Computed using a TOPSIS model with weighted parameters using PCA analysis for all geographical regions
+- Projected future values of parameters using a least squares linear regression machine learning model
+- Allowed visualization of the model’s results using matplotlib in every region for the year 2050
 
 ## Todo
 
