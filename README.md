@@ -13,7 +13,7 @@ Authors:
 
 # Full Paper
 
-Full Paper [Here](./2108685.pdf)
+Full Paper [Here](./Asteroid-MCM-Paper.pdf)
 
 <br>
 
